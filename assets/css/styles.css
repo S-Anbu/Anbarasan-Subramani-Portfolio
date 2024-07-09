@@ -513,8 +513,8 @@ section >div{
 
   }
   .home_social {
-    padding-top: 1.5rem;
-    padding-bottom: 2.5rem;
+    padding-top: .5rem;
+    padding-bottom: 0;
     flex-direction: row;
     align-self: flex-end;
   }
