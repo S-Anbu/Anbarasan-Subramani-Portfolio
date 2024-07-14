@@ -476,7 +476,7 @@ section >div{
 
   .section-title::after {
     width: 80px;
-    top: 3rem;
+    top: 2rem;
   }
 
   .nav {
