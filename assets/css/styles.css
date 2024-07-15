@@ -192,6 +192,9 @@ img {
   .margin_top_579{
     margin-top: 50px !important;
   }
+  .nav_menu {
+    position: fixed;
+  }
   
   }
 
@@ -291,7 +294,7 @@ section >div{
   font-size: var(--h2-font-size);
   color: var(--first-color);
   margin-top: var(--mb-2);
-  margin-bottom: var(--mb-4);
+  margin-bottom: var(--mb-3);
   text-align: center;
 }
 
@@ -303,7 +306,7 @@ section >div{
   left: 0;
   right: 0;
   margin: auto;
-  top: 2rem;
+  top: 4rem;
   background-color: var(--first-color);
 }
 
@@ -421,7 +424,7 @@ section >div{
   width: 100%;
   font-size: var(--nomral-font-size);
   font-weight: var(--font-semi);
-  padding: 1rem;
+  padding: .5rem;
   border-radius: 0.5rem;
   border: 1.5px solid var(--second-color);
   outline: none;
@@ -476,7 +479,7 @@ section >div{
 
   .section-title::after {
     width: 80px;
-    top: 2rem;
+    top: 3rem;
   }
 
   .nav {
